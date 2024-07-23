@@ -272,4 +272,3 @@ while True:
             delete_screen()
     else:  
         delete_screen()
-print ("test")
